@@ -1,0 +1,39 @@
+baseURL = "https://sasrobotics.xyz"
+languageCode = "en-us"
+title = "SAS Robotics"
+theme = "ananke"
+
+copyright = "©2019 Gary Kim <gary@garykim.dev>"
+
+paginate = 6
+enableRobotsTXT = true
+
+[menu]
+    [[menu.main]]
+        identifier = "vex"
+        name = "Vex"
+        title = "Vex Robotics"
+        url = "/vex/"
+        weight = 1
+    [[menu.main]]
+        identifier = "mate"
+        name = "MATE"
+        title = "Marine Advanced Technology Education"
+        url = "/mate/"
+        weight = 2
+    [[menu.main]]
+        identifier = "frc"
+        name = "FRC"
+        title = "FIRST Robotics Competition"
+        url = "/frc/"
+        weight = 3
+    [[menu.main]]
+        identifier = "about"
+        name = "About Us"
+        title = "About Us"
+        url = "/about/"
+        weight = 4
+
+[params]
+    favicon = ""
+    github = "https://github.com/sas-mate-robotics"
