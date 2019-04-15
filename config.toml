@@ -37,3 +37,4 @@ enableRobotsTXT = true
 [params]
     favicon = ""
     github = "https://github.com/sas-mate-robotics/sasrobotics-website"
+    custom_css = ["css/app.css"]
