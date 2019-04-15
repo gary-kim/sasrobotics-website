@@ -36,5 +36,6 @@ enableRobotsTXT = true
 
 [params]
     favicon = ""
-    github = "https://github.com/sas-mate-robotics/sasrobotics-website"
+    github = "https://github.com/sas-mate-robotics"
     custom_css = ["css/app.css"]
+    background_color_class = "bg-near-black"

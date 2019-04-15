@@ -1,6 +1,10 @@
 ---
 title: "Vex Robotics"
-type: page
+featured_image: "/img/vex/mainpage.jpg"
+type: post
 ---
 
 ## Vex Robotics
+
+---
+### [Awards](awards)

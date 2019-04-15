@@ -1,5 +1,6 @@
 ---
 title: "FRC"
+featured_image: "/img/frc/mainpage.jpg"
 type: page
 ---
 
