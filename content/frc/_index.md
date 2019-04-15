@@ -1,9 +1,10 @@
 ---
 title: "FRC"
 featured_image: "/img/frc/mainpage.jpg"
+description: "First Robotics Competition"
 type: page
 ---
 
-## FIRST Competition Competition
+## FIRST Robotics Competition
 
 "We Build Big Bots!"

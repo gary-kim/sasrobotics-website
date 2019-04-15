@@ -1,5 +1,6 @@
 ---
 title: "Awards"
+description: "Our Awards from Vex Competitions"
 type: page
 ---
 
