@@ -1,6 +1,6 @@
 ---
 title: "Vex Robotics"
-featured_image: "/img/vex/mainpage.jpg"
+featured_image: "/nonfree/img/vex/mainpage.jpg"
 type: post
 ---
 

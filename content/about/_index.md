@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-featured_image: "/img/about/team.jpg"
+featured_image: "/nonfree/img/about/team.jpg"
 type: page
 ---
 

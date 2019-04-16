@@ -1,3 +1,6 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "static/nonfree"]
+	path = static/nonfree
+	url = https://github.com/sas-mate-robotics/sasrobotics-website-assets
