@@ -11,4 +11,4 @@ Check out our [about us](/about) page.
 
 Our Mastcot: Ping
 
-![Ping](/img/ping.svg)
+![Ping](/nonfree/img/ping.svg)
