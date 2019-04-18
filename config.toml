@@ -8,6 +8,11 @@ copyright = "©2019 Gary Kim <gary@garykim.dev>"
 paginate = 6
 enableRobotsTXT = true
 
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
 [menu]
     [[menu.main]]
         identifier = "vex"
@@ -35,7 +40,7 @@ enableRobotsTXT = true
         weight = 4
 
 [params]
-    favicon = ""
+    favicon = "nonfree/img/favicon.ico"
     github = "https://github.com/sas-mate-robotics"
     custom_css = ["css/app.css"]
     background_color_class = "bg-near-black"

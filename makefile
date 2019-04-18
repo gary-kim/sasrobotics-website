@@ -8,7 +8,7 @@ build-prod: build-production
 prod: build-production
 
 dep:
-	git submodule update --init --recursive
+	git submodule update --init --recursive --remote
 
 build: 
 	$(HUGO) ${extra_args}
