@@ -1,6 +1,12 @@
 .cover {
     background-size: contain !important;
 }
+th {
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
 td {
     padding: 10px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
 }
