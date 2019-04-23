@@ -9,6 +9,8 @@ type: post
 
 "We Build Big Bots!"
 
+Our team is currently at the Detroit World competition. [Watch us compete!](https://info.firstinspires.org/2019-detroit-frc)
+
 ----
 
 [2019 Team](teams/2019)
