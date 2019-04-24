@@ -10,3 +10,7 @@ td {
     border-top: 1px solid black;
     border-bottom: 1px solid black;
 }
+table img {
+    margin: auto;
+    width: 90% !important;
+}

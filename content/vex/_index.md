@@ -6,5 +6,7 @@ type: post
 
 ## Vex Robotics
 
+The SAS Robotics team competes in the Vex EDR competition.
+
 ---
 ### [Awards](awards)

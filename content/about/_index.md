@@ -8,11 +8,15 @@ type: page
 
 #### If you would like to get in contact with us, feel free to email our mentors [Meredith White](mailto:mwhite@sas.edu.sg) and [Barton Millar](mailto:bmillar@sas.edu.sg).
 
+[Former Students](/about/formerstudents)
+
 We are the robotics program at Singapore American School. 
 
-Every year, up to 50 students take on the daunting task of building a competition ready robot to compete in the Vex, MATE, and FRC Competitions.
+Every year, up to 50 students take on the daunting task of building a competition ready robot to compete in the [Vex](/vex), [MATE](/mate), or [FRC](/frc) competitions.
 
 Many pour their heart and soul into making these robots, often giving up time afterschool or during breaks to work on designing, building, coding, and perfecting their robots.
+
+Robotics is not just about the robots we make. The most important things that our robotics program fosters are likely the collaboration skills and relationships that are built during the process. Unlike the robots we will eventually outgrow, the people we meet could be with us and effect us for the rest of our lives. 
 
 ---
 
