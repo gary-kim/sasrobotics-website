@@ -1,5 +1,7 @@
 ---
 title: "MATE Awards"
+description: "Our Awards from MATE Competitions"
+featured_image: "/nonfree/img/mate/awards.jpg"
 type: page
 ---
 
