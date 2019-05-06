@@ -7,6 +7,8 @@ type: post
 
 ## FIRST Robotics Competition
 
+##### Singapore American School FIRST Robotics Team
+
 ## WE ARE TEAM 4817
 
 Our team brings together enthusiastic and passionate students from the Singapore American School in Singapore. Our mission is identical to that of FIRST as a whole:

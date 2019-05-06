@@ -1,14 +1,19 @@
 .cover {
     background-size: contain !important;
 }
+table {
+    margin: auto;
+}
 th {
     padding: 10px;
-    border-bottom: 1px solid black;
+    border-bottom: 5px solid black;
 }
 td {
     padding: 10px;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+    border-bottom: 2px solid black;
+}
+tr:first-of-type td {
+    border-top: initial;
 }
 table img {
     margin: auto;

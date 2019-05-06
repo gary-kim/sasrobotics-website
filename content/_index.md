@@ -1,5 +1,5 @@
 ---
-title: "SAS Robotics"
+title: "Singapore American School Robotics"
 description: "Singapore American School Robotics Program"
 featured_image: "/nonfree/img/about/team.jpg"
 type: post
