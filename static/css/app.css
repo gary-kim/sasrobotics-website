@@ -3,6 +3,10 @@
 }
 table {
     margin: auto;
+    display: block;
+    max-width: max-content;
+    overflow-x: auto;
+    border: 1px solid grey;
 }
 th {
     padding: 10px;
