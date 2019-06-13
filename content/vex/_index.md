@@ -6,7 +6,7 @@ type: post
 
 ## Vex Robotics
 
-The Singapore American School Robotics team competes in the Vex EDR competition.
+The Singapore American School Robotics team competes yearly in the Vex EDR competition.
 
 ---
 ### [Awards](awards)

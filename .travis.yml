@@ -4,8 +4,6 @@ dist: xenial
 before_install:
   - bash scripts/hugoinstall.sh
   - bash scripts/rcloneinstall.sh
-install:
-  - make dep
 script:
   - make prod
 deploy:
