@@ -9,4 +9,7 @@ type: post
 The Singapore American School Robotics team competes yearly in the Vex EDR competition.
 
 ---
+
+### [Previous Years' Teams](teams/)
+
 ### [Awards](awards)
