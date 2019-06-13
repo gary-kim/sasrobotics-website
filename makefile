@@ -8,7 +8,7 @@ build-prod: build-production
 prod: build-production
 
 dep:
-	git submodule update --init --recursive --remote
+	git submodule update --init --recursive
 
 build: 
 	$(HUGO) ${extra_args}
@@ -18,3 +18,6 @@ build-production:
 
 serve:
 	$(HUGO) serve ${extra_args}
+
+deploy:
+	rclone copy --config scripts/travis.rclone.conf ./public sasroboticsxyz:

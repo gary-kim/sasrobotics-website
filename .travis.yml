@@ -1,13 +1,18 @@
 language: generic
 sudo: required
 dist: xenial
+before_install:
+  - bash scripts/hugoinstall.sh
+  - bash scripts/rcloneinstall.sh
 install:
-  - export CWD=`pwd`
-  - cd ..
-  - curl --output gohugo.deb -L "https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_0.55.6_Linux-64bit.deb"
-  - sudo apt update
-  - sudo apt install -y ./gohugo.deb
-  - cd $CWD
   - make dep
 script:
   - make prod
+deploy:
+  provider: script
+  script: make deploy
+  skip_cleanup: true
+  on:
+    repo: sas-mate-robotics/sasrobotics-website
+    branch: master
+    condition: $TRAVIS_PULL_REQUEST == false
