@@ -1,6 +1,9 @@
 # SAS Robotics Website
 You can find the website hosted at [https://sasrobotics.xyz/](https://sasrobotics.xyz/)
 
+## Repository
+Any change made here will be automatically deployed to <https://sasrobotics.xyz/>.
+
 ## License
 Copyright &copy; 2019 Gary Kim &lt;<gary@garykim.dev>&gt;
 
