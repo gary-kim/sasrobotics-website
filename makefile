@@ -23,5 +23,4 @@ serve:
 	$(HUGO) serve ${extra_args}
 
 deploy:
-	rclone purge --config scripts/travis.rclone.conf sasroboticsxyz: || true
-	rclone copy --config scripts/travis.rclone.conf ./public sasroboticsxyz:
+	rclone sync --config scripts/travis.rclone.conf ./public sasroboticsxyz:
