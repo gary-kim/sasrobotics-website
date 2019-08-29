@@ -9,6 +9,6 @@ type: post
 
 Check out our [about us](/about) page.
 
-Our Mastcot: Ping
+Our Mascot: Ping
 
 ![Ping](/nonfree/img/ping.svg)
