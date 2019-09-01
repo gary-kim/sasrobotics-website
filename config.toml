@@ -16,7 +16,7 @@ enableRobotsTXT = true
 [menu]
     [[menu.main]]
         identifier = "vex"
-        name = "Vex"
+        name = "VEX"
         title = "Vex Robotics"
         url = "/vex/"
         weight = 1
