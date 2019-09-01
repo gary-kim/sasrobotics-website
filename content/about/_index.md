@@ -21,7 +21,7 @@ Robotics is not just about the robots we make. The most important things that ou
 ---
 
 
-Site designed and hosted by Gary Kim. Source code avaliable on [GitHub](https://github.com/sas-mate-robotics/sasrobotics-website)
+Site content by the SAS Robotics Team and hosted by Gary Kim. Source code avaliable on [GitHub](https://github.com/sas-mate-robotics/sasrobotics-website)
 
 Site built with [Hugo](https://gohugo.io) and [Ananke](https://themes.gohugo.io/gohugo-theme-ananke/) theme.
 
