@@ -24,23 +24,29 @@ table img {
     width: 90% !important;
 }
 nav a[href="/vex/"]:before {
-    content: url("/img/vex/logo-circle.png");
+    background-image: url("/img/vex/logo-circle.png");
     height: 1.5em;
     width: 1.5em;
     display: inline-flex;
     vertical-align: middle;
+    background-size: 100% 100%;
+    content: '';
 }
 nav a[href="/mate/"]:before {
-    content: url("/img/mate/logo-circle.png");
+    background-image: url("/img/mate/logo-circle.png");
     height: 1.5em;
     width: 1.5em;
     display: inline-flex;
     vertical-align: middle;
+    background-size: 100% 100%;
+    content: '';
 }
 nav a[href="/frc/"]:before {
-    content: url("/img/frc/logo-circle.png");
+    background-image: url("/img/frc/logo-circle.png");
     height: 1.5em;
     width: 1.5em;
     display: inline-flex;
     vertical-align: middle;
+    background-size: 100% 100%;
+    content: '';
 }
