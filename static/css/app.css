@@ -23,6 +23,24 @@ table img {
     margin: auto;
     width: 90% !important;
 }
-img {
-    box-shadow: 5px 5px 10px 0px #00380C;
+nav a[href="/vex/"]:before {
+    content: url("/img/vex/logo-circle.png");
+    height: 1.5em;
+    width: 1.5em;
+    display: inline-flex;
+    vertical-align: middle;
+}
+nav a[href="/mate/"]:before {
+    content: url("/img/mate/logo-circle.png");
+    height: 1.5em;
+    width: 1.5em;
+    display: inline-flex;
+    vertical-align: middle;
+}
+nav a[href="/frc/"]:before {
+    content: url("/img/frc/logo-circle.png");
+    height: 1.5em;
+    width: 1.5em;
+    display: inline-flex;
+    vertical-align: middle;
 }

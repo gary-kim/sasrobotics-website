@@ -9,6 +9,8 @@ type: post
 
 Check out our [about us](/about) page.
 
-Our Mascot: Ping
 
-![Ping](/nonfree/img/ping.svg)
+
+| VEX | MATE | FRC |
+| --- | --- | --- |
+| [![Vex](/img/vex/logo-circle.png)](/vex/) | [![MATE](/img/mate/logo-circle.png)](/mate/) | [![FRC](/img/frc/logo-circle.png)](/frc/) |
