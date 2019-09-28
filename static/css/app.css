@@ -1,5 +1,6 @@
 .cover {
     background-size: contain !important;
+    background-position: center;
 }
 table {
     margin: auto;
@@ -55,4 +56,12 @@ nav a[href="/frc/"]:before {
     content: '';
     position: relative;
     right: 5px;
+}
+.last-update-time {
+    text-align: right;
+    padding: 3em 1em 0 0;
+    margin: 0;
+    position: relative;
+    bottom: 5em;
+    pointer-events: none;
 }
