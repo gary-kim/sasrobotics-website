@@ -9,6 +9,8 @@ paginate = 6
 enableRobotsTXT = true
 enableGitInfo = true
 
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
 [sitemap]
   changefreq = "weekly"
   priority = 0.5
