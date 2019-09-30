@@ -67,7 +67,7 @@
   <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
 
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
-    <p class="last-update-time white-70">Page last updated on {{ .Lastmod.Format ( $.Site.Params.dateformat | default "2006-01-02") }}</p>
+    {{ with .GitInfo }}<p class="last-update-time white-70">Page last updated on {{ .AuthorDate.Format ( $.Site.Params.dateformat | default "2006-01-02") }} by {{ .AuthorName}}</p>{{ end }}
     <main class="pb7" role="main">
       {{ block "main" . }}{{ end }}
     </main>
