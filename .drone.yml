@@ -1,0 +1,31 @@
+kind: pipeline
+name: build
+
+steps:
+  - name: submodules
+    image: docker:git
+    commands:
+      - git submodule update --init --recursive
+  - name: build-site
+    image: "garykim/hugo:0-extended"
+    commands:
+      - make prod
+  - name: deploy-site
+    image: garykim/rclone
+    environment:
+      RCLONE_CONFIG_PASS:
+        from_secret: rclone_config_pass
+    commands:
+      - "make deploy"
+    when:
+      branch:
+        - master
+      event:
+        - push
+      repo:
+        - sas-mate-robotics/sasrobotics-website
+
+---
+kind: secret
+name: rclone_config_pass
+data: uFzOmZDmqWV/FwJsigIYvXcyDW4CrS+M2VgwjFuRRCTQR/Rw0JuvHwMpxDNmqiqa

@@ -1,4 +1,3 @@
-SHELL := /bin/bash
 HUGO := hugo
 
 .PHONY: dep build build-production build-prod prod serve
@@ -17,10 +16,10 @@ build:
 	$(HUGO) ${extra_args}
 
 build-production:
-	HUGO_ENV=production $(HUGO) --minify ${extra_args}
+	HUGO_ENV=production $(HUGO) --minify --cleanDestinationDir ${extra_args}
 
 serve:
 	$(HUGO) serve ${extra_args}
 
 deploy:
-	rclone sync --config scripts/travis.rclone.conf ./public sasroboticsxyz:
+	rclone sync --config scripts/deploy.rclone.conf ./public deploy:"sasrobotics.xyz"
