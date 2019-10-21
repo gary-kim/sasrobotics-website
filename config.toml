@@ -8,6 +8,7 @@ copyright = "©2019 SAS Robotics Team"
 paginate = 6
 enableRobotsTXT = true
 enableGitInfo = true
+canonifyURLs = true
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
