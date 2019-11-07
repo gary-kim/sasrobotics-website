@@ -22,18 +22,21 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
         identifier = "vex"
         name = "VEX"
         title = "Vex Robotics"
+        pre = "<img src='/img/vex/logo-circle.png' style='height: 1.5em;display: inline-flex; vertical-align: middle;' />"
         url = "/vex/"
         weight = 1
     [[menu.main]]
         identifier = "mate"
         name = "MATE"
         title = "Marine Advanced Technology Education"
+        pre = "<img src='/img/mate/logo-circle.png' style='height: 1.5em;display: inline-flex; vertical-align: middle;' />"
         url = "/mate/"
         weight = 2
     [[menu.main]]
         identifier = "frc"
         name = "FRC"
         title = "FIRST Robotics Competition"
+        pre = "<img src='/img/frc/logo-circle.png' style='height: 1.5em;display: inline-flex; vertical-align: middle;' />"
         url = "/frc/"
         weight = 3
     [[menu.main]]

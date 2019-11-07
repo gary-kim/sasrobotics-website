@@ -24,39 +24,6 @@ table img {
     margin: auto;
     width: 90% !important;
 }
-nav a[href="/vex/"]:before {
-    background-image: url("/img/vex/logo-circle.png");
-    height: 1.5em;
-    width: 1.5em;
-    display: inline-flex;
-    vertical-align: middle;
-    background-size: 100% 100%;
-    content: '';
-    position: relative;
-    right: 5px;
-}
-nav a[href="/mate/"]:before {
-    background-image: url("/img/mate/logo-circle.png");
-    height: 1.5em;
-    width: 1.5em;
-    display: inline-flex;
-    vertical-align: middle;
-    background-size: 100% 100%;
-    content: '';
-    position: relative;
-    right: 5px;
-}
-nav a[href="/frc/"]:before {
-    background-image: url("/img/frc/logo-circle.png");
-    height: 1.5em;
-    width: 1.5em;
-    display: inline-flex;
-    vertical-align: middle;
-    background-size: 100% 100%;
-    content: '';
-    position: relative;
-    right: 5px;
-}
 .last-update-time {
     text-align: right;
     padding: 3em 1em 0 0;
