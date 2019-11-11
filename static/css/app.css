@@ -32,3 +32,6 @@ table img {
     bottom: 5em;
     pointer-events: none;
 }
+.open-sans {
+    font-family: 'Open Sans', sans-serif;
+}

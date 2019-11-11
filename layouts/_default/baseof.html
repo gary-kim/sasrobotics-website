@@ -59,7 +59,7 @@
     {{ end }}
   </head>
 
-  <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
+  <body class="ma0 {{ $.Param "body_classes"  | default "open-sans bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
 
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
     {{ with .GitInfo }}<p class="last-update-time white-70">Page last updated on {{ .AuthorDate.Format ( $.Site.Params.dateformat | default "2006-01-02") }} by {{ .AuthorName}}</p>{{ end }}
@@ -68,5 +68,6 @@
     </main>
     {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
     {{ block "scripts" . }}{{ partialCached "site-scripts.html" . }}{{ end }}
+    <link ref="stylesheet" href="https://cdn.ydgkim.com/fonts/open-sans.css">
   </body>
 </html>
