@@ -1,6 +1,7 @@
 ---
 title: "Tube Bot"
 description: "Building Tube Bot"
+noindex: true
 ---
 
 **Warning:** Historically, we have had an abysmal success rate with robots built around tubes. Carefully consider whether this is really the best option!

@@ -10,7 +10,7 @@ enableRobotsTXT = true
 enableGitInfo = true
 canonifyURLs = true
 
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 
 [sitemap]
   changefreq = "weekly"
@@ -51,3 +51,4 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     github = "https://github.com/sas-mate-robotics"
     custom_css = ["css/app.css"]
     background_color_class = "bg-dark-gray"
+    RSSLink = false
