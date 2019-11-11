@@ -10,7 +10,7 @@ The design adds a lot more difficulty and failiure points to your robot while on
 
 ---
 
-# CAD (Computer Assisted Design)
+# CAD (Computer Aided Design)
 
 If there is any type of ROV that we build that requires a proper CAD to begin with, it is a tube bot. It will be of great help for figuring out bouyancy, center of bouyancy, center of mass, and a lot of other information about your design that will be very valuable.
 
