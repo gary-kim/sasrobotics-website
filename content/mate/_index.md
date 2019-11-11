@@ -17,6 +17,9 @@ Every year, we send two of our best teams to the ASEAN MATE regional in Surabaya
 
 ---
 
-[Previous Years' Teams](teams/)
+[Previous Years' Teams]({{< relref teams>}})
 
-[Awards](awards)
+[Awards]({{< relref awards >}})
+
+[Documentation]({{< relref documentation >}})
+ 
