@@ -1,7 +1,7 @@
 ---
 title: "Previous MATE Teams"
 date: 2019-05-06T17:16:43+08:00
-type: post
+type: info
 ---
 
 ### Previous MATE TEAMS

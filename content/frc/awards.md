@@ -1,6 +1,6 @@
 ---
 title: "FRC Awards"
-type: page
+type: info
 ---
 
 | Year | Award | Competition | Team&nbsp;Members  | Image |

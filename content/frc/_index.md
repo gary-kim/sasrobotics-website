@@ -2,7 +2,8 @@
 title: "FRC"
 featured_image: "/nonfree/img/frc/mainpage.jpg"
 description: "FIRST Robotics Competition"
-type: post
+meta_description: "Singapore American School's FIRST Robotics Competition Team: TEAM 4817"
+type: info
 ---
 
 ## FIRST Robotics Competition

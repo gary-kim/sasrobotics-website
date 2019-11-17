@@ -2,7 +2,7 @@
 title: "MATE"
 featured_image: "/nonfree/img/mate/mainpage.jpg"
 description: "Marine Advanced Technology Education"
-type: post
+type: info
 ---
 
 ## Marine Advanced Technology Education

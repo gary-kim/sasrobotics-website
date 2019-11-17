@@ -2,7 +2,7 @@
 title: "Vex Awards"
 description: "Our Awards from Vex Competitions"
 featured_image: "/nonfree/img/vex/awards.jpg"
-type: page
+type: info
 ---
 
 | Year | Award | Competition |   Team&nbsp;Members  | Image |

@@ -1,6 +1,6 @@
 ---
 title: "Former Students"
-type: page
+type: info
 ---
 
 ### Former students of the SAS Robotics program

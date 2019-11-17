@@ -1,7 +1,7 @@
 ---
 title: "About Us"
 featured_image: "/nonfree/img/about/team.jpg"
-type: post
+type: info
 ---
 
 ## About Us
